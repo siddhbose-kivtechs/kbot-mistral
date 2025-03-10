@@ -1,41 +1,26 @@
 {
-  "short_name": "M Bot",
-  "name": "M BOT- Mistral",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/siddh-kivtechs/ai_image_gen/refs/heads/main/ai-8330457_1280.avif",
-      "sizes": "192x192",
-      "type": "image/avif"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/siddh-kivtechs/ai_image_gen/refs/heads/main/ai-8330457_1280.avif",
-      "sizes": "512x512",
-      "type": "image/avif"
-    }
-
-    {
-      "src": "/icons/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/icons/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/icons/icon-maskable-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  
-  ],
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#f0f0f0",
-  "description": "A smart chatbot powered by Mistral AI to answer your questions and assist you.",
-  "orientation": "any",
-  "categories": ["communication", "utilities"]
+    "short_name": "M Bot",
+    "name": "M BOT- Mistral",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/siddh-kivtechs/ai_image_gen/refs/heads/main/ai-8330457_1280.avif",
+            "sizes": "192x192",
+            "type": "image/avif"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/siddh-kivtechs/ai_image_gen/refs/heads/main/ai-8330457_1280.avif",
+            "sizes": "512x512",
+            "type": "image/avif"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#673a44",
+    "theme_color": "#rgb(135, 15, 70)",
+    "description": "A smart chatbot powered by Mistral AI to answer your questions and assist you.",
+    "orientation": "any",
+    "categories": [
+        "communication",
+        "utilities"
+    ]
 }
